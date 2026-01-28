@@ -1,6 +1,6 @@
 # arduino_car_parking_system
 
-Designed and implemented a smart door system using Arduino Uno with motion detection feature.
+A arduino smart door system with motion detection. 
 
 ## Research Purpose
 To reduce carbon dioxide emissions from vehicles by eliminating unnecessary driving within parking areas through automated slot allocation and real-time availability tracking.
